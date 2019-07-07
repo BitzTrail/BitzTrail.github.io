@@ -1,0 +1,24 @@
+{
+    "dir": "ltr",
+    "name": "BitzTrail-SEO DIGITAL MARKETING",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://team.bitztrail.ml/",
+    "short_name": "BitzTrail",
+    "theme_color": "transparent",
+    "description": "BitzTrail is a team of young people passionate about Digital marketing and committed to provide creative solutions in Web development SEO and Digital Advertisement",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/logo7.ico",
+            "sizes": "16x16 32x32 48x48 64x64 128x128 256x256"
+        },
+        {
+            "src": "/images/logo7.ico",
+            "sizes": "16x16 32x32 48x48 64x64 128x128 256x256"
+        }
+    ]
+}
